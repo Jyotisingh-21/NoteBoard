@@ -4,7 +4,7 @@ A full-featured note-making web app built with the MERN stack. Create, view, and
 
 ## 🚀 Live Demo
 
-Coming soon...
+[![Deploy](https://img.shields.io/badge/deployed-render-blue)](https://noteboard-rqr3.onrender.com/)
 
 ## ✨ Features
 
